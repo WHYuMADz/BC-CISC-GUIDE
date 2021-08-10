@@ -1,8 +1,10 @@
 # BC-CISC-GUIDE
 Aim
+
 The aim of this project is to develop a web application that will act as a guide by providing necessary information and resources for Brooklyn College students completing a Bachelor's degree in Computer Science; Information Systems or Multimedia Computing.
 
 Objectives
+
 The goal of our website is to develop a web based interface for incoming first-generation college students to understand the degree they are acquiring and also providing them with necessary resources to be successful in their academics and careers.
 
 Convenience: The information and resources offered by Brooklyn College is a hassle to navigate especially for first-generation college students. Our project will act as a guide that will provide students the necessary degree requirement and breakdown all in one easy-to-navigate web application.
